@@ -1,4 +1,4 @@
-# Improve-ML-Model-Accuracy_Feature-Engineering
+# Improve-Machine-Learning-Model-Accuracy_Feature-Engineering
 
 "Feature engineering and improving the Machine Learning model accuracy; 
 
