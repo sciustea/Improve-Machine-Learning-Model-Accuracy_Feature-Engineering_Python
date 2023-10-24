@@ -1,6 +1,6 @@
 # Improve-ML-Model-Accuracy_Feature-Engineering
 
-Feature engineering and improving the Machine Learning model accuracy; 
+"Feature engineering and improving the Machine Learning model accuracy; 
 
 Using the advertising data:  advertising.csv; 
 
@@ -10,5 +10,5 @@ Splitting the data into training and testing data sets, then choosing and traini
 
 Getting the accuracy of the ML model;
 
-Using feature engineering skills to create new features and improve my ML model;
+Using feature engineering skills to create new features and improve my ML model;"
 
