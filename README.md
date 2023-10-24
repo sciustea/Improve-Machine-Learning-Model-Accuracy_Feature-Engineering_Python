@@ -1,6 +1,6 @@
 # Improve-ML-Model-Accuracy_Feature-Engineering
 
-Feature engineering and improving the model accuracy; 
+Feature engineering and improving the Machine Learning model accuracy; 
 
 Using the advertising data:  advertising.csv; 
 
